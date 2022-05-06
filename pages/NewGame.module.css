@@ -1,0 +1,86 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap");
+
+.form {
+  position: absolute;
+  width: 593px;
+  height: 650px;
+  transform: translate(-50%, -50%);
+  top: 50%;
+  left: 50%;
+  background: linear-gradient(180deg, #211759, #4033a5);
+  border-radius: 32px;
+  /* transform: rotate(180deg); */
+}
+
+.gamebtn {
+  position: absolute;
+  width: 481px;
+  height: 70px;
+  left: 60px;
+  top: 350px;
+  background: #7edbfb;
+  box-shadow: 0px 8px 12px -2px #141c6d;
+  border-radius: 10px;
+  border: none;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 26px;
+  line-height: 45px;
+  color: #ffffff;
+  cursor: pointer;
+}
+
+.multibtn {
+  position: absolute;
+  width: 481px;
+  height: 70px;
+  left: 60px;
+  top: 450px;
+  border: none;
+  background: #ea53a3;
+  box-shadow: 0px 8px 12px -2px #141c6d;
+  border-radius: 10px;
+  cursor: pointer;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 26px;
+  line-height: 45px;
+  color: #ffffff;
+}
+
+.setbtn {
+  position: absolute;
+  width: 481px;
+  height: 70px;
+  left: 60px;
+  top: 550px;
+  border: none;
+  background: #798ff6;
+  box-shadow: 0px 8px 12px -2px #141c6d;
+  border-radius: 10px;
+  cursor: pointer;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 26px;
+  line-height: 45px;
+  color: #ffffff;
+}
+
+.img1 {
+  position: absolute;
+  width: 182px;
+  height: 182px;
+  left: 200px;
+  top: 80px;
+}
+
+.speaker {
+  position: absolute;
+  width: 47px;
+  height: 47px;
+  left: 500px;
+  top: 60px;
+}

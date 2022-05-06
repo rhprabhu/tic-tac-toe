@@ -1,0 +1,105 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap");
+
+.form {
+  position: absolute;
+  width: 650px;
+  height: 714px;
+  transform: translate(-50%, -50%);
+  top: 50%;
+  left: 50%;
+  background: linear-gradient(180deg, #211759, #4033a5);
+  border-radius: 32px;
+  /* transform: rotate(180deg); */
+}
+
+.form1 {
+  position: absolute;
+  width: 478px;
+  height: 553px;
+  left: 76px;
+  top: 90px;
+
+  background: #614ebb;
+  border-radius: 20px;
+}
+
+.win {
+  position: absolute;
+  width: 92px;
+  height: 92px;
+  left: 200px;
+  top: -45px;
+}
+
+.speaker {
+  width: 47px;
+  height: 47px;
+  margin-left: 550px;
+  margin-top: 30px;
+}
+
+.rectangle {
+  position: relative;
+  width: 430px;
+  height: 65px;
+  left: 96px;
+  top: 120px;
+
+  background: #2f2478;
+  border-radius: 20px;
+  margin-bottom: 18px;
+}
+
+.level {
+  position: absolute;
+  width: 67px;
+  height: 45px;
+  left: 17px;
+  top: 10px;
+
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 45px;
+  /* identical to box height */
+
+  color: #ffffff;
+}
+
+.player {
+  position: absolute;
+  width: 76px;
+  height: 30px;
+  left: 327px;
+  top: 18px;
+
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 30px;
+  /* identical to box height */
+
+  color: #fff75b;
+}
+
+.playbtn {
+  position: absolute;
+  width: 260px;
+  height: 72px;
+  left: 177px;
+  top: 600px;
+
+  background: #ff7ae5;
+  border-radius: 60px;
+  cursor: pointer;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 45px;
+  /* identical to box height */
+border: none;
+  color: #ffffff;
+}
